@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	//"fmt"
+	"fmt"
+)
+
 
 func main() {
-	fmt.Println("vim-go")
+	fmt.Println("ybc"<"xyz")
 }
+
